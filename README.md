@@ -1,5 +1,7 @@
 # WeatherStation
 
+Detailed link: https://devpost.com/software/weatherstation
+
 ## Inspiration
 I created this project to help people and I found my problem myself because I encountered with it. I wake up very early to go to school. At that time my family is sleeping and I don't want them to wake up. Our windows and curtains are closed at that time that's why I can't see the weather condition. I had a problem with rain and temperature last school year. In the end I want to make a Weather Station to see and get real time data and be ready for it.
 
